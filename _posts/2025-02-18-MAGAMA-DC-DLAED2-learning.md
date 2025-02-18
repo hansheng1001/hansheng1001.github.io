@@ -1,6 +1,6 @@
 ---
 title: "MAGAMA-DC-DLAED2-learning"
-date: 2025-02-18T19:30:30-04:00
+date: 2025-02-18
 categories:
   - blog
 tags:
